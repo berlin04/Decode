@@ -217,3 +217,7 @@ ans=cpp.symmetric_difference(pyth) ## екы сеттын айырмашылык
 print(len(ans))
     
 
+print()
+print()
+print()
+print()
